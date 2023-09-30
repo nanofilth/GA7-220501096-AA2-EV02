@@ -1,0 +1,82 @@
+a, i{
+    color: #9f32a9;
+    text-decoration: none;
+}
+a:hover{
+    color: #9f32a9 !important;
+    text-decoration: none;
+}
+small{
+    color: #d9d9d9;
+}
+table{
+    font-size: small;
+}
+thead th{
+    text-transform: uppercase;
+}
+.logo-list{
+    width: 20%;
+}
+.btn-drop{
+    background-color: #9f32a9 !important;
+    border-color: #9f32a9 !important;
+    color: white;
+}
+.btn-drop:hover{
+    color: white;
+}
+.nav-item{
+    border-top: solid 1px #d9d9d9;
+}
+.active-source{
+    background-color: #d9d9d9;
+}
+.nav-link{
+    text-transform: capitalize !important;
+}
+.info-section{
+    border:solid 1px #d9d9d9;
+    padding: 2%;;
+}
+.without-data{
+    border:solid 1px #d9d9d9;
+}
+.text-success, .text-danger{
+    font-weight: 600;
+}
+.result, .loader, .sec-id{
+    display: none;
+}
+.title-crud{
+    color: #d9d9d9;
+    text-transform: capitalize;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.edit, .delete{
+    margin-left: 2%;
+}
+.edit i{
+    color: #2650F2 !important;
+}
+.delete i{
+    color: red !important;
+}
+.save i{
+    color: white !important;
+}
+.cancel i{
+    color: black !important;
+}
+.save, .cancel{
+    margin-left: 1%;
+    padding: 0.2rem 0.5rem;
+}
+.form-crud{
+    margin-top: 1%;
+    border: solid 1px #d9d9d9;
+    padding: 1%;
+    display: none;
+}
